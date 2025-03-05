@@ -1,0 +1,7 @@
+/public/
+/resources/_gen/
+
+*.exe
+*.linux
+*.darwin
+*.lock
